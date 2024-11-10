@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on 99 Personal blog</title>
+    <link>https://september99.github.io/tags/python/</link>
+    <description>Recent content in Python on 99 Personal blog</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 02 Nov 2024 22:31:47 +0600</lastBuildDate>
+    <atom:link href="https://september99.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Article</title>
+      <link>https://september99.github.io/blog/test/</link>
+      <pubDate>Sat, 02 Nov 2024 22:31:47 +0600</pubDate>
+      <guid>https://september99.github.io/blog/test/</guid>
+      <description>Hello world&#xA;yo bro&#xA;一級標題 二級標題 六級標題 字體加粗&#xA;item1 level2 item1 item2 hi level2 hi are you 引用</description>
+    </item>
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://september99.github.io/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://september99.github.io/blog/post-13/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+  </channel>
+</rss>

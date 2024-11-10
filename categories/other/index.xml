@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other on 99 Personal blog</title>
+    <link>https://september99.github.io/categories/other/</link>
+    <description>Recent content in Other on 99 Personal blog</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 02 Nov 2024 22:31:47 +0600</lastBuildDate>
+    <atom:link href="https://september99.github.io/categories/other/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Article</title>
+      <link>https://september99.github.io/blog/test/</link>
+      <pubDate>Sat, 02 Nov 2024 22:31:47 +0600</pubDate>
+      <guid>https://september99.github.io/blog/test/</guid>
+      <description>Hello world&#xA;yo bro&#xA;一級標題 二級標題 六級標題 字體加粗&#xA;item1 level2 item1 item2 hi level2 hi are you 引用</description>
+    </item>
+  </channel>
+</rss>
